@@ -1,0 +1,9 @@
+site_name: Операционный справочник
+site_url: https://katshuuu.github.io/devops-docs/
+theme:
+  name: mkdocs
+  locale: ru
+nav:
+  - Главная: index.md
+  - Эксплуатация: runbook.md
+  - Журнал инцидентов: incidents.md
